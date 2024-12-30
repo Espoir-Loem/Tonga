@@ -1,0 +1,15 @@
+{
+  "name": "tonga",
+  "module": "main.ts",
+  "version": "0.0.1",
+  "type": "module",
+  "scripts": {
+    "dev":"bun run main.ts"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
